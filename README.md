@@ -13,11 +13,11 @@
 - [X] Print each lotto ticket's numbers, one per line.
 
 ### Manage lotto tickets as Objects.
-- [ ] Create a `Lotto` object for each purchased ticket.
-- [ ] Validate that each `Lotto` object contains exactly six numbers.
-- [ ] Validate that all numbers are between 1 and 45.
-- [ ] Validate that all numbers are unique.
-- [ ] Validate that the numbers in each ticket in ascending order.
+- [X] Create a `Lotto` object for each purchased ticket.
+- [X] Validate that each `Lotto` object contains exactly six numbers.
+- [X] Validate that all numbers are between 1 and 45.
+- [X] Validate that all numbers are unique.
+- [X] Validate that the numbers in each ticket in ascending order.
 
 ### Receive the winning numbers for the lotto.
 - [ ] Print a prompt message to enter the winning numbers. "Please enter last week's winning numbers."
