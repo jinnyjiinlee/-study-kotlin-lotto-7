@@ -8,9 +8,9 @@
     - [ ] If the input is not a valid number.
 
 ### Print the purchased lotto tickets.
-- [ ] Print a message to show the number of purchased tickets. "You have purchased $8 tickets."
-- [ ] Sort the numbers in each lotto ticket in ascending order.
-- [ ] Print each lotto ticket's numbers, one per line.
+- [X] Print a message to show the number of purchased tickets. "You have purchased $8 tickets."
+- [X] Sort the numbers in each lotto ticket in ascending order.
+- [X] Print each lotto ticket's numbers, one per line.
 
 ### Manage lotto tickets as Objects.
 - [ ] Create a `Lotto` object for each purchased ticket.
